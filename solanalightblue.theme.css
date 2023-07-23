@@ -1,0 +1,67 @@
+/**
+ * @name Solana Light Blue
+ * @author Disease#5663
+ * @version 1.0.11
+ * @description macOS with barely any customization.
+ * @source https://github.com/maenDisease/Solana
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Solana
+*/
+
+@import url('https://maendisease.github.io/Solana/Solana.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
+
+:root {
+  --accent-hue: 209;
+  --accent-saturation: 100%;
+  --accent-brightness: 50%;
+  --background-accent-hue: 211;
+  --background-accent-saturation: 100%;
+  --background-accent-brightness: 50%;
+  --background-image: url('data:image/png;base64,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'); /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image-position: center;
+  --background-image-size: cover;
+  --background-image-blur: 0px;
+  --background-overlay-opacity: 0%;
+  --background-overlay-color-lightness: -1;
+  --background-hue-shift-strength: 0%;
+  --window-background-image: initial;
+  --window-background-image-position: center;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
+  --window-opacity: 100%;
+  --window-blur: 0;
+  --window-friends-blur: 0;
+  --window-margin: 15;
+  --window-margin-left: 0;
+  --window-border-radius: 10px;
+  --window-background-lightness: 0;
+  --window-accent-tint-strength: 100%;
+  --chat-bubble: 1;
+  --text-link-hue: 313;
+  --chat-text-brightness: 0;
+  --home-icon: initial;
+  --favorites-icon: initial;
+  --dock-blur: 0; /* Blur intensity of the dock. */
+  --dock-border-radius: -0.51;
+  --sidebar-width: 240px;
+  --members-width: 240px;
+  --sidebar-text-brightness: -1;
+  --background-floating-blur: 20px;
+  --floating-background-lightness: 0;
+  --background-floating-opacity: 0.5;
+  --enable-floating-transparency: 1;
+  --custom-font-display: Nunito Light;
+  --custom-font-regular: Nunito Light;
+  --custom-font-primary: Nunito;
+  --custom-font-code: "";
+  --enable-blur: 1;
+}
+
+/* Any custom CSS below here */
+
+
